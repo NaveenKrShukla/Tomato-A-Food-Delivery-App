@@ -1,12 +1,29 @@
-# React + Vite
+# 🍅 Tomato – A Food Delivery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo 👉 [https://tomato-a-food-delivery-app.vercel.app/](https://tomato-a-food-delivery-app.vercel.app/)
 
-Currently, two official plugins are available:
+A sleek and modern food delivery web application built with **React** and **Vite**. Tomato offers users an interactive interface to browse food categories, explore menus, and enjoy a smooth and responsive experience — just like a real food delivery platform.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Built with **React + Vite** for lightning-fast performance
+- 🍽️ **Category-based food browsing**
+- 🛒 Add to cart functionality (expandable)
+- 🔀 **React Router** for smooth navigation
+- 📱 Fully **responsive** across devices
+- 🔔 Toast notifications for actions using `react-toastify`
+
+---
+
+## 🖥️ Tech Stack
+
+- **Frontend:** React, Vite
+- **Routing:** React Router DOM
+- **HTTP Requests:** Axios *(planned for backend integration)*
+- **Notifications:** React Toastify
+- **Styling:** CSS Modules
+- **Hosting:** Vercel
+
+
